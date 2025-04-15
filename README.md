@@ -1,16 +1,27 @@
-## Hi there 👋
+# About Me
 
-<!--
-**Frstyy132/Frstyy132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Primary languages
+| Language | My experience |
+| -- | -- |
+| C++               | My go to under almost any cirumstance                                      |
+| Python            | Amazing for when I need to get something done quickly                      |
+| Java              | Learned at an AP level in school, but I never use it today                 |
+| Lua               | Extremely basic level of understanding that I learned through using neovim |
+| C                 | Basic understanding through intermediate use through Linux                 |
 
-Here are some ideas to get you started:
+### Past projects
+```
+1. RogueLike built from scratch using c++
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Working on
+```
+1. Learning PyQt6
+2. Making Tetris game in PyQt6
+3. Learning OpenGL
+```
+
+### Certifications/Credentials
+```
+1. Computer Science End of Pathway Exam
+```
